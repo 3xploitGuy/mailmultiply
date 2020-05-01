@@ -31,6 +31,19 @@ You can generate mails and use it to mass signin a website, it saves output in "
 ~/mailmultiply ❯❯❯ ./mailmultiply.sh
 ```
 
+### For termux (android)
+```
+$ apt-get install python
+
+$ git clone https://github.com/3xploitGuy/mailmultiply.git
+
+$ cd mailmultiply
+
+$ chmod +x mailmultiply.sh
+
+$ ./mailmultiply.sh
+```
+
 ## Contact
 [Gmail](mailto:sandeshyadavm46@gmail.com) </br>
 [Instagram](https://instagram.com/1n_only_sandy) </br>
